@@ -1,0 +1,9 @@
+com\examen\ferreteria\service\ArticuloService.class
+com\examen\ferreteria\service\ClienteService.class
+com\examen\ferreteria\dto\ClienteFacturaDTO.class
+com\examen\ferreteria\dto\ArticuloCategoriaDTO.class
+com\examen\ferreteria\controller\ClienteController.class
+com\examen\ferreteria\repository\ClienteRepository.class
+com\examen\ferreteria\controller\ArticuloController.class
+com\examen\ferreteria\dto\ArticuloDTO.class
+com\examen\ferreteria\repository\ArticuloRepository.class

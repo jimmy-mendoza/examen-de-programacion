@@ -1,0 +1,16 @@
+C:\Users\10jul\Desktop\Proyecto Progra Final\Backend\src\main\java\com\examen\ferreteria\controller\ArticuloController.java
+C:\Users\10jul\Desktop\Proyecto Progra Final\Backend\src\main\java\com\examen\ferreteria\controller\ClienteController.java
+C:\Users\10jul\Desktop\Proyecto Progra Final\Backend\src\main\java\com\examen\ferreteria\dto\ArticuloCategoriaDTO.java
+C:\Users\10jul\Desktop\Proyecto Progra Final\Backend\src\main\java\com\examen\ferreteria\dto\ArticuloDTO.java
+C:\Users\10jul\Desktop\Proyecto Progra Final\Backend\src\main\java\com\examen\ferreteria\dto\ClienteFacturaDTO.java
+C:\Users\10jul\Desktop\Proyecto Progra Final\Backend\src\main\java\com\examen\ferreteria\dto\MessageResponse.java
+C:\Users\10jul\Desktop\Proyecto Progra Final\Backend\src\main\java\com\examen\ferreteria\entity\Articulo.java
+C:\Users\10jul\Desktop\Proyecto Progra Final\Backend\src\main\java\com\examen\ferreteria\entity\Categoria.java
+C:\Users\10jul\Desktop\Proyecto Progra Final\Backend\src\main\java\com\examen\ferreteria\entity\Cliente.java
+C:\Users\10jul\Desktop\Proyecto Progra Final\Backend\src\main\java\com\examen\ferreteria\entity\Factura.java
+C:\Users\10jul\Desktop\Proyecto Progra Final\Backend\src\main\java\com\examen\ferreteria\entity\FacturaDetalle.java
+C:\Users\10jul\Desktop\Proyecto Progra Final\Backend\src\main\java\com\examen\ferreteria\FinalbApplication.java
+C:\Users\10jul\Desktop\Proyecto Progra Final\Backend\src\main\java\com\examen\ferreteria\repository\ArticuloRepository.java
+C:\Users\10jul\Desktop\Proyecto Progra Final\Backend\src\main\java\com\examen\ferreteria\repository\ClienteRepository.java
+C:\Users\10jul\Desktop\Proyecto Progra Final\Backend\src\main\java\com\examen\ferreteria\service\ArticuloService.java
+C:\Users\10jul\Desktop\Proyecto Progra Final\Backend\src\main\java\com\examen\ferreteria\service\ClienteService.java
